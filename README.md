@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @frozzyofficial
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
